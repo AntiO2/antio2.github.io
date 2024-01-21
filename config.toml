@@ -1,0 +1,8 @@
+baseURL = 'https://antio2.cn'
+languageCode = 'zh-cn'
+title = 'AntiO2'
+theme = 'hugo-theme-stack'
+
+DefaultContentLanguage = "zh-cn"
+
+hasCJKLanguage = true
