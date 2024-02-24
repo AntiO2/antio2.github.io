@@ -3,6 +3,14 @@ module:
         extended: true
         min: "0.87.0"
 menu:
+    main:
+        - name: 开往
+          url: https://www.travellings.cn/go.html
+          weight: 100
+          params:
+            icon: train
+            newTab: true    
+
     social:
         - identifier: github
           url: https://github.com/antio2
@@ -22,6 +30,7 @@ menu:
           params:
             icon: rss
             newTab: true
+
 
 
 
