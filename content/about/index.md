@@ -7,7 +7,7 @@ menu:
         params:
             icon: user
             newTab: false
-
+image: 
 comments: true
 license: false
 readingTime: false
@@ -23,6 +23,12 @@ links:
     image: brand-leetcode.svg
     
 ---
+
+
+
+
+
+![](bg.gif)
 
 你好👋，我全网通用id叫 `AntiO2` 。在读软件工程大三学生。
 
