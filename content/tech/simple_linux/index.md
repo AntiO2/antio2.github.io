@@ -12,6 +12,7 @@ tags:
   - Linux
 categories:
   - 操作系统
+  - 笔记
 ---
 
 ## Step1

@@ -12,6 +12,7 @@ tags:
   - 笔记
 categories:
   - 数据库
+  - 笔记
 ---
 
 ## Sql数据类型

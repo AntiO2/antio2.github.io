@@ -5,7 +5,7 @@ image: ow.jpg
 menu:
     main:
         name: 技术
-        weight: 2
+        weight: 20
         params:
             icon: flask
 ---

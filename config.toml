@@ -6,3 +6,4 @@ theme = 'hugo-theme-stack'
 DefaultContentLanguage = "zh-cn"
 
 hasCJKLanguage = true
+enableRobotsTXT = true

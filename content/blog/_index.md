@@ -5,7 +5,7 @@ image: brand.png
 menu:
     main:
         name: 日志
-        weight: 3
+        weight: 30
         params:
             icon: notebook
 
