@@ -1,6 +1,6 @@
 ---
 title: "算法"
-image: 
+image: bj.jpg
 description: algorithm note
 style:
     background: "#B8D0F9"
