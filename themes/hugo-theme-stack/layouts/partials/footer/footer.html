@@ -9,6 +9,7 @@
     </section>
 
     <section class="powerby">
+        
         {{ with .Site.Params.footer.customText }}
         {{ . | safeHTML }} <br />
         {{ end }}
@@ -21,6 +22,6 @@
         {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} {{ T "footer.designedBy" (dict "Theme"
         $Theme "DesignedBy" $DesignedBy) | safeHTML }}<br>
 
-
+        {{ partial "footer/custom.html" . }}
     </section>
 </footer>

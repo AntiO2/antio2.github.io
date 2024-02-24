@@ -16,16 +16,17 @@ menu:
           params:
             icon: mail
             newTab: true
-        - identifier: steam
-          url: https://steamcommunity.com/id/AntiO2/
-          weight: -99
+        - identifier: rss
+          url: /index.xml
+          weight: 6
           params:
-            icon: brand-steam
+            icon: rss
             newTab: true
 
 
 
 params:
+    syntaxHighlighter: "highlight.js"
     mainSections:
         - blog
         - tech

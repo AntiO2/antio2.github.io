@@ -1,0 +1,6 @@
+{{ if eq .Site.Params.syntaxHighlighter "highlight.js" }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/night-owl.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script>document.addEventListener('DOMContentLoaded', (event) => {document.querySelectorAll('pre code').forEach((el) => {hljs.highlightElement(el);});});</script>
+{{ end }}

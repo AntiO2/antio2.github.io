@@ -1,4 +1,4 @@
-baseURL = 'https://hugo.antio2.cn'
+baseURL = 'https://blog.antio2.cn'
 languageCode = 'zh-cn'
 title = 'AntiO2'
 theme = 'hugo-theme-stack'
