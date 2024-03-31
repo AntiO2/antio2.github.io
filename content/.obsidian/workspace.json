@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "9b1832d83419c1c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a875afe1b89bd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eb6c2c4bd34cb6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/2024-thu/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f2c3fd79c72db04",
+    "type": "split",
+    "children": [
+      {
+        "id": "268d1ded3eb70017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec860a150d26876",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c62abeeaf25d84e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "baed1ff140dc9b0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8d9ae30c0505533",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b83560d39d5d643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3525df5004cb8e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/2024-thu/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db2bd6258e3f28ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/2024-thu/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83ab011151c27eee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4545203ea8f9c2ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/2024-thu/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8eb6c2c4bd34cb6d",
+  "lastOpenFiles": [
+    "blog/2024-thu/foot.jpg",
+    "blog/2024-thu/index.md",
+    "blog/half-asleep-half-awaken/index.md",
+    "blog/2024-thu/food.jpg",
+    "blog/2024-thu/IMG_20240331_171901.jpg",
+    "archetypes/categories.md",
+    "blog/2024-thu",
+    "archetypes/default.md",
+    "blog/2023-autumn-recurit/index.md",
+    "blog/2023-autumn-recurit/image-20240205183447782.png",
+    "archetypes/README.md",
+    "blog/2023-autumn-recurit/bg.jpg",
+    "blog/_index.md",
+    "archetypes/tags.md",
+    "archetypes",
+    "about/index.md",
+    "about/l1.jpg"
+  ]
+}
