@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-thu/index.md",
+                "file": "blog/2023-autumn-recurit/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2024-thu/index.md",
+                "file": "blog/2023-autumn-recurit/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2024-thu/index.md",
+                "file": "blog/2023-autumn-recurit/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2024-thu/index.md"
+                "file": "blog/2023-autumn-recurit/index.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "8eb6c2c4bd34cb6d",
   "lastOpenFiles": [
-    "blog/2024-thu/foot.jpg",
+    "tech/spring/index.md",
+    "tech/describe/index.md",
+    "tech/cpp_poly/index.md",
+    "tech/algo/_index.md",
+    "tech/odl/index.md",
+    "blog/2023-summer/index.md",
     "blog/2024-thu/index.md",
+    "blog/2024-thu/foot.jpg",
     "blog/half-asleep-half-awaken/index.md",
     "blog/2024-thu/food.jpg",
     "blog/2024-thu/IMG_20240331_171901.jpg",

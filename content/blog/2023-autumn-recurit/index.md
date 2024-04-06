@@ -17,10 +17,6 @@ tags:
 categories:
   - 杂谈
 links:
- - title:  2023秋招面试记录
-   website: https://antio2.notion.site/ac84ea510f9249dcb9a4877197251669?v=56e00050e1c045a38cac238d605cc124
-   description: 我的找实习面试经历
-   image: bg.jpg
 ---
 
 
@@ -97,6 +93,4 @@ links:
 
 
 
----
-
-面经放在下面链接里面了，感觉Notion还挺好用，就是创建View的时候分享权限做的不是很完善。 
+ 
