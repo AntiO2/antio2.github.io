@@ -1,5 +1,5 @@
 ---
-title: 人大夏令营经历分享
+title: 人大夏令营经历
 description: 
 date: 2024-07-08T01:44:28+08:00
 image: 
