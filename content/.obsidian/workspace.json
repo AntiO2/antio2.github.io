@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/mit6.1810/util/index.md",
+                "file": "tech/2024_7/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/mit6.1810/util/index.md",
+                "file": "tech/2024_7/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/mit6.1810/util/index.md",
+                "file": "tech/2024_7/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/mit6.1810/util/index.md"
+                "file": "tech/2024_7/index.md"
               }
             }
           }
@@ -148,10 +148,17 @@
   },
   "active": "1aa23f0e741632f4",
   "lastOpenFiles": [
+    "tech/2024_7/3.png",
+    "tech/2024_7/2.png",
+    "tech/2024_7/index.md",
+    "tech/2024_7/1.png",
+    "Pasted image 20240708005912.png",
+    "2024-07-08.md",
+    "tech/mit6.1810/util/index.md",
+    "tech/2024_7",
     "tech/mit6.1810/util/primes.svg",
     "tech/mit6.1810/util/primes.drawio",
     "tech/mit6.824/bg.jpg",
-    "tech/mit6.1810/util/index.md",
     "tech/mit6.824/chain_replication/index.md",
     "tech/mit6.824/chain_replication/blogimage-20230929212637720.png",
     "draft/os/lecture1.md",
@@ -173,13 +180,10 @@
     "archetypes/categories.md",
     "blog/2024-thu",
     "archetypes/default.md",
-    "blog/2023-autumn-recurit/image-20240205183447782.png",
     "archetypes/README.md",
-    "blog/2023-autumn-recurit/bg.jpg",
     "blog/_index.md",
     "archetypes/tags.md",
     "archetypes",
-    "about/index.md",
-    "about/l1.jpg"
+    "about/index.md"
   ]
 }
