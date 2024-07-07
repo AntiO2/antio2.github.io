@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/2024_7/index.md",
+                "file": "tech/ruc_summer_camp/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/2024_7/index.md",
+                "file": "tech/ruc_summer_camp/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/2024_7/index.md",
+                "file": "tech/ruc_summer_camp/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/2024_7/index.md"
+                "file": "tech/ruc_summer_camp/index.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "1aa23f0e741632f4",
   "lastOpenFiles": [
+    "tech/2024_7/index.md",
+    "tech/ruc_summer_camp/index.md",
+    "tech/ruc_summer_camp",
     "tech/2024_7/3.png",
     "tech/2024_7/2.png",
-    "tech/2024_7/index.md",
     "tech/2024_7/1.png",
     "Pasted image 20240708005912.png",
     "2024-07-08.md",
