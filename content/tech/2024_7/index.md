@@ -109,6 +109,38 @@ arg1
 
 要专门设置这个，因为tmux的默认socket都在`/tmp` 下，我有几次tmux崩溃，让同事的sessions也全都挂掉了。所以我在自己的profile中添加了一个单独的设置，这样即使自己的tmux崩溃，也不会影响其他会话。
 
+### 循环
+
+看别人脚本发现的一个。
+
+```bash
+$ cat test.sh 
+for parm do
+        echo $parm
+done
+```
+
+运行结果为
+```bash
+$ sh -x test.sh p1 p2
++ for parm in '"$@"'
++ echo p1
+p1
++ for parm in '"$@"'
++ echo p2
+p2
+```
+脚本会被解释为循环命令行参数，等价于`for parm in $@; do`
+
+
+### 参数展开的小bug
+
+bash5执行 `echo {0001..0010}`
+
+结果为`0001 0002 0003 0004 0005 0006 0007 0008 0009 0010`
+
+bash4结果为`1 2 3 4 5 6 7 8 9 10`, 没有前导0
+
 ## python多态
 
 ```python
