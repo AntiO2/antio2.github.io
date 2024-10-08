@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8adfdbaa6a1f541b",
+        "id": "d036982929a93374",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa23f0e741632f4",
+            "id": "10808393ac57bad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/ruc_summer_camp/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/ruc_summer_camp/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/ruc_summer_camp/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tech/ruc_summer_camp/index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,17 +135,24 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "1aa23f0e741632f4",
+  "active": "10808393ac57bad8",
   "lastOpenFiles": [
+    "tech/2024-8-10-TiDB/index.md",
+    "tech/2024-8-10-TiDB/Pasted image 20240810175207.png",
+    "tech/2024-8-10-TiDB/Pasted image 20240810161907.png",
     "tech/2024_7/index.md",
-    "tech/ruc_summer_camp/index.md",
-    "tech/ruc_summer_camp",
     "tech/2024_7/3.png",
     "tech/2024_7/2.png",
     "tech/2024_7/1.png",
+    "_index.md",
+    "tech/2024-8-10-TiDB/_index.md",
+    "tech/2024-8-10-TiDB",
+    "tech/ruc_summer_camp/index.md",
+    "tech/ruc_summer_camp",
     "Pasted image 20240708005912.png",
     "2024-07-08.md",
     "tech/mit6.1810/util/index.md",
@@ -177,8 +176,6 @@
     "blog/2024-thu/index.md",
     "blog/2024-thu/foot.jpg",
     "blog/half-asleep-half-awaken/index.md",
-    "blog/2024-thu/food.jpg",
-    "blog/2024-thu/IMG_20240331_171901.jpg",
     "archetypes/categories.md",
     "blog/2024-thu",
     "archetypes/default.md",
