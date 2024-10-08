@@ -1,6 +1,6 @@
 [submodule "themes/github-style"]
 	path = themes/github-style
 	url = https://github.com/MeiK2333/github-style.git
-[submodule "themes/hugo-theme-stack2"]
-	path = themes/hugo-theme-stack2
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
 	url = https://github.com/AntiO2/hugo-theme-stack.git
