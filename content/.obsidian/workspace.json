@@ -11,8 +11,12 @@
             "id": "10808393ac57bad8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tech/2024-10-13_pgstatstatements_for_tpch/index.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tech/2024-10-13_pgstatstatements_for_tpch/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tech/2024-10-13_pgstatstatements_for_tpch/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tech/2024-10-13_pgstatstatements_for_tpch/index.md"
+              }
             }
           }
         ]
@@ -135,12 +143,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "10808393ac57bad8",
   "lastOpenFiles": [
+    "tech/2024-10-12_deepin_flamegraph_for_pg/index.md",
+    "tech/2024-10-13_pgstatstatements_for_tpch/index.md",
+    "tech/intro_flame_graph/index.md",
+    "categories/杂谈/_index.md",
+    "categories/杂谈/bg.jpg",
+    "page/links/index.md",
     "tech/2024-8-10-TiDB/index.md",
     "tech/2024-8-10-TiDB/Pasted image 20240810175207.png",
     "tech/2024-8-10-TiDB/Pasted image 20240810161907.png",
@@ -174,15 +187,10 @@
     "tech/odl/index.md",
     "blog/2023-summer/index.md",
     "blog/2024-thu/index.md",
-    "blog/2024-thu/foot.jpg",
     "blog/half-asleep-half-awaken/index.md",
     "archetypes/categories.md",
     "blog/2024-thu",
     "archetypes/default.md",
-    "archetypes/README.md",
-    "blog/_index.md",
-    "archetypes/tags.md",
-    "archetypes",
-    "about/index.md"
+    "archetypes"
   ]
 }
